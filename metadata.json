@@ -1,0 +1,8 @@
+{
+  "name": "Sieuthisrilanka",
+  "description": "Siêu thị trực tuyến chuyên cung cấp hải sản, thực phẩm tươi sống và đặc sản từ Sri Lanka.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
